@@ -10,6 +10,6 @@ def hello_world():
 @app.route('/health')
 def health():
     return 'Server is up and running'
-    #thus is Python code Updated
+    #thus is Python code Updatedddd
 
 #neeee
